@@ -42,9 +42,9 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://brucewayne:brucewayne@cluster0.msoafcl.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "bruce1")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_filess')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Harsha:harsha@cluster0.qfbgdlu.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Waldy")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Waldy')
 
 #maximum search result buttos count in number#
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
