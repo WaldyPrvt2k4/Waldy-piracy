@@ -14,7 +14,7 @@ class script(object):
 - Get Access - https://telegram.me/Waldy_writings  
 
 <b>DEVS:</b>
-- <a href=https://t.me/waldy_writings>Team @waldy_writingss</a>"""
+- <a href=https://t.me/waldy_writings>Team @waldy_writings</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and our bot will respond whenever a keyword is found the message
@@ -96,7 +96,7 @@ This module only works for my admins
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 
-★ Powered BY @WALDY_WRITINGSS"""
+★ Powered BY @WALDY_WRITINGS"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
